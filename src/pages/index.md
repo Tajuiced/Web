@@ -1,50 +1,48 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Development in Progress
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: "H2: Ordne alt"
+subheading: July :)
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: "H1: En tørst efter begær"
+  description: "D1: Ved at tegne sine karakterer med alle deres fejl og mangler på
+    fineste vis vækkes Fitzgeralds West og East Egg til live, og viser det
+    umættelige begær, som alle mennesker føler. Gatsby er portrætteret som en
+    rig mand, der startede med en ydmyg oprindelse, og som lagde hårdt arbejde i
+    at opnå sin plads i det amerikanske samfund. Selv om han passer til mange
+    modeller for den amerikanske drøm, vises han stadig at være ulykkelig i sit
+    liv, fastlåst i sin fortid, da han fortsætter med at elske Daisy, en gift
+    kvinde, der engang delte den samme følelser for ham."
+description: "D2: Selve begæret"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Ved at "nikke beslutsomt" virker Gatsby næsten barnlig, idet han klamrer
+        sig til den frosne fortid, der er klistret fast til hans sind. Gatsby er
+        dog ikke den eneste karakter med Vasudeva 2 begær, da både Daisy og Tom
+        vises at være særligt tiltrukket af et væld af ting, selvom de på ingen
+        måde står øverst på hinandens lister. Også Daisy lever et komfortabelt
+        liv i East Egg, omgivet af luksus og trives med det. Hun tiltrækkes dog
+        af Gatsbys skjortekollektion, hvilket viser hendes uendelige ønske om
+        større materiel rigdom.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Tom, på den anden side, har et liv, der umiddelbart ser godt ud. Han er
+        gift med Daisy, lever et liv i pragt og pragt, men han længes stadig
+        efter mere. Fitzgerald skaber ham som en karakter, der, selv om han er
+        rig og gift, stadig er utilfreds med livet og indlader sig på en
+        udenomsægteskabelig affære.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Toms affære opsummeres fint af Nicks beretning om en oplevelse på en fest,
+        hvor "Myrtle trak sin stol tæt ind til min, og pludselig strømmede
+        hendes varme ånde over mig som en historien om hendes første møde med
+        Tom"
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Tom viser sig at have en rent fysisk tiltrækning til Myrtle og har lyst
+        til ting, som han ikke ønsker, hvilket understøtter temaet om evig
+        utilfredshed. Fitzgerald bygger videre på pointen om, at folk har en
+        tendens til at være ulykkelige, selv om de er rige, fordi de altid vil
+        have mere.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
